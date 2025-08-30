@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2025-08-30T21:12:03Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20250830211203</dc:identifier>
+    <dc:title>बुद्धि-विनोद</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">लेखनाथ पौड्याल</dc:creator>
+    <dc:date>2025-08-30T21:12:03Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <source_publisher>श्री हितैषी कम्पनी</source_publisher>
+    <source_edition></source_edition>
+    <source_year></source_year>
+    <source_isbn></source_isbn>
+    <book_about>बुद्धितत्त्व लेखनाथ पौड्यालका कवितामा पाइने महत्त्वपूर्ण पक्ष हो। 'संसार के हो ? ठूलो र सानो कसरी हुन्छ ? आत्मा कसरी जन्मन्छ ? संसारको रचना कसले गर्यो ? मर्ने जन्मने प्रक्रिया के हो ?' आदि प्रश्नमा गहिरिएर पौड्याल बुद्धिविनोदको माध्यमबाट प्रश्न गर्छन्।
+–चेतनारायण लामिछाने</book_about>
+    <book_genre>खण्डकाव्य</book_genre>
+    <book_slug>buddhi-binod</book_slug>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/buddhi-binod.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+  </spine>
+</package>
